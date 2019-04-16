@@ -1,0 +1,89 @@
+/*p{
+	color: red;
+	font-size: 40px;
+}*/
+
+.Skis{
+
+	color: #9ACD32;
+	font-size: 30px;
+	border: 3px double red;
+	/*padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin: 20px 10px 40px 75px;*/
+	display: inline-block;
+	width: 380px;
+	background-color: #FFEBCD;
+	font-family: 'Dokdo', cursive;
+}
+.Snowboard{
+
+	color: #9ACD32;
+	font-size: 30px;
+	border: 3px double red;
+	/*padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 15px;
+	padding-left: 15px;
+	/*margin: 20px 10px 40px 75px;*/
+	display: inline-block;
+	width: 380px;
+	background-color: #FFEBCD;
+	font-family: 'Dokdo', cursive;
+
+}
+.Accessories{
+
+	color: #9ACD32;
+	font-size: 30px;
+	border: 3px double red;
+	/*padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin: 20px 10px 40px 75px;*/
+	display: inline-block;
+	width: 380px;
+	background-color: #FFEBCD;
+	font-family: 'Dokdo', cursive;
+
+}
+.Sale{
+	color: #9ACD32;
+	font-size: 30px;
+	border: 3px double red;
+	background-color: #FFEBCD;
+	display: inline-block;
+	width: 380px;
+	font-family: 'Dokdo', cursive;
+
+}
+#Catalog{
+
+	/*background-color: rgb(255, 215, 0)*/
+}
+.Snow{
+	width: 1450px;
+}
+a{
+	text-decoration: none;
+}
+.navig-li{
+	display: inline-block;
+
+}
+.Snowlogo{
+
+	height: 70px;
+	
+}
+.d-inline-block{
+
+	font-family: 'Playfair+Display', sans-serif;
+	font-style: italic;
+	font-size: 15px;
+	font-weight: bolder;
+
+}

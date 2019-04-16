@@ -1,0 +1,32 @@
+/*p{
+	color: red;
+	font-size: 40px;
+}*/
+
+.Skis{
+
+	color: #9ACD32;
+	font-size: 40px;
+	border: dashed green;
+}
+.Snowboard{
+
+	color: #9ACD32;
+	font-size: 40px;
+}
+.Accessories{
+
+	color: #9ACD32;
+	font-size: 40px;
+}
+#Catalog{
+
+	/*background-color: rgb(255, 215, 0)*/
+}
+.Snow{
+	width: 1450px;
+}
+.container{
+
+	background-color: green;
+}
