@@ -56,9 +56,9 @@
 	font-family: 'Dokdo', cursive;
 	display: flex;
 }
-#Catalog{
+.Catalog{
 	display: flex;
-	margin-right: 10px; 
+	position: fixed;
 
 	/*background-color: rgb(255, 215, 0)*/
 }
@@ -91,25 +91,25 @@ a{
 	font-size: 20px;
 	color:	#FF4500
 }
-.box1{
+/*.box1{
 
 	width: 270px;
 	height: 150px;
 	background-color: black;
 	/*float: right;*/
 }
-.box2{
+/*.box2{
 
 	width: 270px;
 	height: 150px;
 	background-color: black;
-	/*float:left;*/
+	float:left;
 }
-
-.clear{
+*/
+/*.clear{
 
 	clear: both;
-}
+}*/
 
 .navigation_4:hover{
 
@@ -173,6 +173,7 @@ a{
 
 }
 
-.header{
-	position: fixed;
+.containersection{
+	padding-top: 60px;
 }
+
